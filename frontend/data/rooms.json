@@ -1,0 +1,10 @@
+
+{
+    "data": [
+        {"id": 1,"name": "Chat 1","description": "First Chat room","image": "/src/assets/images/avatar/amyelsner.png"},
+        {"id": 2,"name": "Chat 2","description": "Second Chat room","image": "/src/assets/images/avatar/annafali.png"},
+        {"id": 3,"name": "Chat 3","description": "Third Chat room","image": "/src/assets/images/avatar/amyelsner.png"},
+        {"id": 4,"name": "Chat 4","description": "Forth Chat room","image": "/src/assets/images/avatar/annafali.png"},
+        {"id": 5,"name": "Chat 5","description": "Fifth Chat room","image": "/src/assets/images/avatar/amyelsner.png"}
+    ]
+}
